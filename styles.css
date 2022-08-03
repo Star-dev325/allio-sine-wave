@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  border: 2px solid rgb(255, 0, 0);
+  background-color: lightgrey;
+  padding: 20px;
+}
